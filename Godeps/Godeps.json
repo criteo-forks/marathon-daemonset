@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/nutmegdevelopment/marathon-daemonset",
+	"ImportPath": "github.com/criteo-forks/marathon-daemonset",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
 	"Deps": [
